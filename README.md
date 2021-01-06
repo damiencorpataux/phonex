@@ -35,7 +35,6 @@ comme les sons ‘on’, ‘ai’, ‘ein’, etc... et place son résultat sous
 (5.0 x 10-324 .. 1.7 x 10308 sur 15 à 16 chiffres significatifs).
 Son temps de calcul est double de Soundex et 30% supérieure seulement à Soundex2.
 
+Algorithme Phonex,
+Copyright Frédéric BROUARD (31/3/99),
 [Voir la version originale](http://info.univ-lemans.fr/~carlier/recherche/soundex.html).
-
-Algorithme Phonex
-Copyright Frédéric BROUARD (31/3/99)
